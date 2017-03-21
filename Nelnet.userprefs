@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Nelnet/Nelnet.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nelnet/Tests.cs">
+    <Files>
+      <File FileName="Nelnet/Tests.cs" Line="28" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Nelnet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
